@@ -6,6 +6,7 @@ public class Hai {
 
 System.out.println("initial");
 System.out.println("initial");
+System.out.println(" third commit initial");
 	}
 
 }
